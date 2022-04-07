@@ -1,6 +1,6 @@
 # Error_estimates_PINN_and_XPINN_NonlinearPDEs
 
-The first comprehensive theoretical analysis of PINNs (and XPINNs) for a prototypical nonlinear PDE, the Navier-Stokes equations are given. 
+The first comprehensive theoretical analysis of PINNs (and XPINNs) for a prototypical nonlinear PDE, the Navier-Stokes equations is given. 
 We prove rigorous bounds on the errors resulting from the approximation of the incompressible Navier-Stokes equations with (extended) physics informed neural networks. We show that the underlying PDE residual can be made arbitrarily small for tanh neural networks with two hidden layers. Moreover, the total error can be estimated in terms of the training error, network size and number of quadrature points. The theory is illustrated with numerical experiments.
 
 CODE: TBA
